@@ -1,0 +1,12 @@
+
+
+footer{
+    background-color: $tertiary_color;
+    .box-2 {
+        background-color: brown;
+    
+        &:hover {
+            background-color: lime;
+        }
+    }
+}

@@ -1,0 +1,22 @@
+header {
+  background-color: #4e6e8A; }
+  header .box {
+    background-color: lightcoral; }
+    header .box:hover {
+      background-color: lightskyblue; }
+
+main {
+  background-color: #823038; }
+  main .box-1 {
+    background-color: aqua; }
+    main .box-1:hover {
+      background-color: red; }
+    main .box-1:active {
+      background-color: white; }
+
+footer {
+  background-color: #3132; }
+  footer .box-2 {
+    background-color: brown; }
+    footer .box-2:hover {
+      background-color: lime; }
